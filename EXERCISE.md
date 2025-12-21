@@ -9,18 +9,18 @@
 
 **Objective:** Set up the document and format the ancient texts.
 
-1.  **Skeleton:** Create an `index.html` file with `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
-2.  **Meta:** Set the title to: **Gondor Archive: The War of the Ring**.
-3.  **The Inscription:** Inside the `<body>`, create a `div` with class `prophecy-container`.
+1.  **Skeleton:** Create an `index.html` file with `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`. ✅
+2.  **Meta:** Set the title to: **Gondor Archive: The War of the Ring**. ✅
+3.  **The Inscription:** Inside the `<body>`, create a `div` with class `prophecy-container`. ✅
     -   **Paragraph 1:** Copy the text below:
-        > "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the Darkness bind them."
+        > "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the Darkness bind them." ✅
     -   **Formatting:**
-        -   "One Ring to rule them all" → `<strong>`
-        -   ", One Ring to find them" → `<i>`
-        -   "Darkness" → `<mark>`
-    -   **Paragraph 2:** Create a new `<p>` inside the current div. Write:
-        > GoldAu Power Level: 10 / 9
-    -   **Formatting:** "Au" → `<sup>`, "10" → `<sup>`, "9" → `<sub>`.
+        -   "One Ring to rule them all" → `<strong>` ✅
+        -   ", One Ring to find them" → `<i>` ✅ 
+        -   "Darkness" → `<mark>` ✅
+    -   **Paragraph 2:** Create a new `<p>` inside the current div. Write: ✅
+        > GoldAu Power Level: 10 / 9 ✅
+    -   **Formatting:** "Au" → `<sup>`, "10" → `<sup>`, "9" → `<sub>`. ✅
 
 ---
 
